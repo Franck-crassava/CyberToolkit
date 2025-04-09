@@ -42,15 +42,11 @@ Generate strong, random passwords with customizable options.
 
 #### Features:
 
-Define length
-
-Exclude specific characters
-
-Generate multiple passwords
-
-Option to use cryptographically secure method (--secure)
-
-Save output to a file
+- Define length
+- Exclude specific characters
+- Generate multiple passwords
+- Option to use cryptographically secure method (--secure)
+- Save output to a file
 
 ## Usage:
 
@@ -63,17 +59,12 @@ Monitor log files in real time and filter lines with keywords.
 
 ### Features:
 
-Tail-style log reading
-
-Keyword filtering (--filter)
-
-Save filtered logs to a file (--save)
-
-Add timestamps (--timestamp)
-
-Colored output
-
-Optional Discord/Slack webhook alerts
+- Tail-style log reading
+- Keyword filtering (--filter)
+- Save filtered logs to a file (--save)
+- Add timestamps (--timestamp)
+- Colored output
+- Optional Discord/Slack webhook alerts
 
 Usage:
 
